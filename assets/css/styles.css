@@ -1,0 +1,72 @@
+/*.content {min-height:450px;}*/
+/*Pagination*/
+.pagination {
+	float:right;
+}
+.pagination li a {
+	padding: 2px 8px;
+	margin:2px;
+	background-color: black;
+	color:white !important;
+	font-size: 25px;
+}
+.pagination li a:hover{
+	text-decoration:none;
+	background-color: #FF7F00;
+	color: #000000;
+}
+
+.pagination li a.current_page{
+	background-color: #000000;
+	color: #fff;
+}
+
+.paging
+{
+	margin-top: 40px;
+}
+
+.button
+{
+	background-color: #FF7F00;
+	border: none;
+	color: white;
+	padding: 7px 35px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+}
+
+.login-text
+{
+	color: #FF7F00;
+	padding-right: 20px;
+	float: right;
+	line-height: 38px;
+}
+
+.login-table
+{
+	border-collapse:separate;
+	border-spacing: 5px;
+	margin: auto;
+}
+
+.action-icon
+{
+	text-align:center;
+	padding: 15px;
+	width: 217px;
+	height:250px;
+}
+
+.text-articles-list
+{
+	color: #FF7F00;
+}
+
+a
+{
+	text-decoration: none;
+}
